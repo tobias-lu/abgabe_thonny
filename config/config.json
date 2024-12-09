@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "name": "csv_converter",
+    "version": "0.4.5",
+    "description": "Converts CSV files to XLSX",
+    "author": "Tobias F./Bernd F.",
+    "intern": {
+      "dark_mode": true
+      }
+    }
+  }

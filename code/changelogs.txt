@@ -1,0 +1,71 @@
+[(C) Tobias F./Bernd F. - 09-12-2024 - All information provided without guarantee of completeness or accuracy]
+
+IN WORK
+
+wip-pa-v0.4.9x:
+    - Bugfixes
+    - Pre-Alpha-Release
+    - Updated README.md
+
+wip-v0.4.8:
+    - Implementing .exe-File/installer
+    - Bugfixes
+    - Updated README.md
+
+wip-v0.4.7b:
+    - Testing
+    - Bugfixes
+
+wip-v0.4.7:
+    - Added settings
+    - Bugfixes
+
+----------------------------------------
+CHANGELOG
+
+v0.4.5:
+    - Testing
+    - Added Cofig
+    - Added logs
+    - Bugfixes/Error handling
+    - Updated README.md
+
+v0.4.1:
+    - GUI-Concept updated/new ideas commented
+    - Bugfixes
+    - Updated README.md
+
+v0.4.0:
+    - New GUI-Concept implemented
+        - Menu
+        - User feedback
+        - Color scheme
+    - General Bugfixes
+
+v0.3.5:
+    - Console-Concept fully re-scripted in TKinter
+    - Bugfixes
+
+v0.3.0:
+    - Added TKinter-Concept
+    - Bugfixes
+    - Updated README.md
+
+v0.2.9:
+    - TKinter-Concept Idea
+    - Bugfixes
+    - Updated README.md
+
+v0.2.0:
+    - Console-Concept completed
+    - Testing
+    - Bugfixes
+    - Updated README.md
+
+v0.1.5:
+    - Added first Console-Concept
+    - Bugfixes
+    - Updated README.md
+
+v0.1.0:
+    - Initial

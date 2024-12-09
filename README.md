@@ -3,6 +3,7 @@
 <u>**Copyright**</u>
 - Author(en): **Tobias F./Bernd F.**
 - Lizenz: **CC BY-NC-SA 4.0**(Creative Common)
+- Version: **0.4.5** (Pre-Alpha)
 
 Das Kopieren oder Weiterverbreiten der Dateien ist nur unter
 nennung der Autoren und unter gleichen Lizenzbedingungen erlaubt.
