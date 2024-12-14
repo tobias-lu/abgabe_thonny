@@ -4,20 +4,25 @@ IN WORK
 
 wip-pa-v0.4.9x:
     - Bugfixes
+    - Added settings
     - Pre-Alpha-Release
     - Updated README.md
+    - Save in specific path
 
 wip-v0.4.8:
-    - Implementing .exe-File/installer
     - Bugfixes
     - Updated README.md
+    - First EN added
 
 wip-v0.4.7b:
     - Testing
     - Bugfixes
 
 wip-v0.4.7:
-    - Added settings
+    - Implementing .exe-File/installer
+    - [MOVED TO v0.4.9x]Added settings[Moved to v0.4.9x]
+    - Removed experimental features(dark mode)
+    - Intern change(added an inter class)
     - Bugfixes
 
 ----------------------------------------
