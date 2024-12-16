@@ -1,0 +1,13 @@
+{
+  "DE": {
+    "main": {
+      "file": "Datei",
+      "help": "Hilfe",
+      "settings": "Einstellungen",
+      "about": "\u00dcber",
+      "changelogs": "\u00c4nderungsprotokoll",
+      "quit": "Beenden",
+      "licence": "Lizenz"
+    }
+  }
+}

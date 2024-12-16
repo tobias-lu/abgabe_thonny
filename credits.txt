@@ -1,0 +1,20 @@
+~~PRODUCTION~~
+Directors: Tobias F., Bernd F.
+Producer: Tobias F.
+Lead Developer: Tobias F.
+Developer: Bernd F.
+Lead Build Engineer: Bernd F.
+Lead quality assurance: Tobias F.
+Quality assurance: Bernd F.
+Lead Designer: Tobias F.
+
+~~TESTING~~
+Testing Supervisor: Tobias F.
+- Tobias F.
+- Bernd F.
+- and a lot more :D
+
+Special thanks to:
+- C. F. for the idea :
+- C. R. for support
+

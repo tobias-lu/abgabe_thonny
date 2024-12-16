@@ -1,0 +1,38 @@
+{
+  "DE": {
+    "main": {
+      "mainwindow": {
+        "title": "CSV Konverter",
+        "opened_file": "Die ausgew\u00e4hlte Datei ist: ",
+        "open_button_label": "W\u00e4hlen Sie die Datei aus, die Sie konvertieren m\u00f6chten:",
+        "open_button": "\u00d6ffnen",
+        "file_type_label": "W\u00e4hlen Sie den Dateityp, in den Sie konvertieren m\u00f6chten:",
+        "_comment": "Filetypes in all languages are the same, so we don't need to translate them.",
+        "save_button_label": "W\u00e4hlen Sie den Speicherort f\u00fcr die konvertierte Datei:",
+        "save_button": "Speicherort ausw\u00e4hlen",
+        "convert_button_label": "Mit dem Klick auf den Button wird die Datei konvertiert: ",
+        "convert_button": "Konvertieren",
+        "saved_to_path_msg": "Datei wurde unter folgendem Namen gespeichert: "
+      },
+      "settings": {
+        "title": "Einstellungen",
+        "_comment": "Dark mode is not implemented yet, but it will be soon.",
+        "dark_mode": "Dunkler Modus",
+        "light_mode": "Heller Modus",
+        "language": "Sprache",
+        "language_desc": "W\u00e4hlen Sie die Sprache aus, die Sie verwenden m\u00f6chten.",
+        "save_button": "Speichern",
+        "cancel_button": "Abbrechen"
+      },
+      "about": {
+        "title": "\u00dcber",
+        "description": "Dieses Programm wurde von Tobias und Bernd F. entwickelt. Es konvertiert CSV-Dateien in andere Datentypen.",
+        "version": "Version: 0.4.5",
+        "author": "Autor: Tobias F./Bernd F."
+      },
+      "changelogs": {
+        "title": "\u00c4nderungsprotokoll"
+      }
+    }
+  }
+}

@@ -2,30 +2,47 @@
 
 IN WORK
 
-wip-pa-v0.4.9x:
+wip-pa-v0.5.1:
+    - [INTERN CHANGES] Dynamic rows/columns
+    - Bugfixes
+
+wip-pa-v0.5.0:
+    - Debug mode added
+    - Bugfixes
+    - Update LANGUAGES
+
+wip-ppa-v0.4.9x:
     - Bugfixes
     - Pre-Alpha-Release
-    - Updated README.md
-
-wip-v0.4.8:
-    - Implementing .exe-File/installer
-    - Bugfixes
-    - Updated README.md
-
-wip-v0.4.7b:
-    - Testing
-    - Bugfixes
-
-wip-v0.4.7:
-    - Added settings
-    - Bugfixes
+    - Save in specific path
+    - Update EN
 
 ----------------------------------------
 CHANGELOG
 
-v0.4.5:
+v0.4.8:
+    - Bugfixes
+    - Updated README.md
+    - First EN added
+    - Added (first) settings[LANGUAGES]
+    - Removed unnecessary imports
+
+v0.4.7b:
     - Testing
-    - Added Cofig
+    - Bugfixes
+        - Numbers not stored properly
+        - Other minor bugs
+
+v0.4.7:
+    - Removed experimental features(dark mode)
+    - Intern change(added an inter class)
+    - Bugfixes
+
+
+v0.4.5:
+    - Implementing .exe-File/installer
+    - Testing
+    - Added Config
     - Added logs
     - Bugfixes/Error handling
     - Updated README.md

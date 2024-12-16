@@ -7,8 +7,8 @@
         "intern": {
             "_comment": "Dark mode is not implemented yet, but it will be soon.",
             "theme": "light",
-            "language": "DE",
-            "beta-features": true
+            "language": "EN",
+            "beta-features": false
         }
     }
 }

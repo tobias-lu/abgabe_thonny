@@ -1,0 +1,38 @@
+{
+  "EN": {
+    "main": {
+      "mainwindow": {
+        "title": "CSV Converter",
+        "opened_file": "The selected file is: ",
+        "open_button_label": "Select the file you want to convert:",
+        "open_button": "Open",
+        "file_type_label": "Select the file type you want to convert to:",
+        "_comment": "Filetypes in all languages are the same, so we don't need to translate them.",
+        "save_button_label": "Select the location to save the converted file:",
+        "save_button": "Select location",
+        "convert_button_label": "Click the button to convert the file: ",
+        "convert_button": "Convert",
+        "saved_to_path_msg": "File has been saved as: "
+        },
+      "settings": {
+          "title": "Settings",
+          "_comment": "Dark mode is not implemented yet, but it will be soon.",
+          "dark_mode": "Dark mode",
+          "light_mode": "Light mode",
+          "language": "Language",
+          "language_desc": "Select the language you want to use.",
+          "save_button": "Save",
+          "cancel_button": "Cancel"
+        },
+      "about": {
+        "title": "About",
+        "description": "This program was developed by Tobias and Bernd F. It converts CSV files to other data types.",
+        "version": "Version: 0.4.5",
+        "author": "Author: Tobias F./Bernd F."
+      },
+    "changelogs": {
+      "title": "Changelog"
+          }
+    }
+  }
+}

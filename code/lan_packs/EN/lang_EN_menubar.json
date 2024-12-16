@@ -1,0 +1,13 @@
+{
+  "EN": {
+    "main": {
+      "file": "File",
+      "help": "Help",
+      "settings": "Settings",
+      "about": "About",
+      "changelogs": "Changelogs",
+      "quit": "Quit",
+      "licence": "Licence"
+    }
+  }
+}
