@@ -40,7 +40,7 @@ Folgende Funktionen sind geplant:
 
 <u>**Deinstallation**</u>
 
-Die Deinstallation kann über die Settings Datei aufgegeben werden. Hier kann das Programm auch Repaiert oder Umlokalisiert werden. Sollte dies Nicht Möglich sein, Verständigen sie uns Gerne :).
+Die Deinstallation kann über die Settings Datei aufgegeben werden. Hier kann das Programm auch Repaiert oder Umlokalisiert werden. Sollte dies Nicht Möglich sein, verständigen sie uns gerne oder versuchen sie es unter Systemeinstellungen > Apps zu deinstallieren :).
 
 <u>**Error-Codes**</u>
 - 1099: Unerwarteter Fehler
@@ -73,7 +73,7 @@ Parts by
 
 **Kontakt**
 
-~ EMAIL: bernd.flu11@gmail.com ODER tobias.flu10@gmail.com
+~ EMAIL: tobias.flu10@gmail.com+CSV
 
 ~ DISCORD: @Berluto oder @Tobberlu
 
