@@ -19,6 +19,10 @@ Die Lizenzbedingungen können jederzeit von den Autoren geändert werden.
 1. Das Programm öffnet eine Python Konsole. Diese darf minimiert, aber NICHT geschlossen werden!
 
 2. Keine der Dateien seperat verschieben! Das Layout muss gleichbleiben!
+
+3. Das Programm wird eventuell als Virus gekennzeichnet, da die .msi Installer Datei nicht von Windows überprüft wurde.
+
+4. Das Installationsprogramm schließt sich teilweise nach dem Öffnen der Readme (oder hier "Lies Mich"). Dies ist okay und das Programm wurde trozdem installiert.
     
 <u>**Beschreibung**</u>
 
