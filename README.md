@@ -11,6 +11,12 @@ Kommerzielle Aktivitäten(sofern nicht abgesprochen) sind untersagt.
 Die Lizenzbedingungen können jederzeit von den Autoren geändert werden.
 (Stand 06.12.2024)
 
+<h2> Wichtige Hinweise zur Ausführung: </h2>
+
+1. Das Programm öffnet eine Python Konsole. Diese darf minimiert, aber NICHT geschlossen werden!
+
+2. Keine der Dateien seperat verschieben! Das Layout muss gleichbleiben!
+    
 <u>**Beschreibung**</u>
 
 Dieses Programm dient dazu, CSV-Dateien in EXEL-Dateien umzuwandeln.
