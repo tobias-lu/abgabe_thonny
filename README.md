@@ -40,7 +40,7 @@ Folgende Funktionen sind geplant:
 
 <u>**Deinstallation**</u>
 
-Die Deinstallation kann über die Settings Datei aufgegeben werden. Hier kann das Programm auch Repaiert oder Umlokalisiert werden. Sollte dies Nicht Möglich sein, verständigen sie uns gerne oder versuchen sie es unter Systemeinstellungen > Apps zu deinstallieren :).
+Die Deinstallation kann über die Installations-Datei aufgegeben werden, nachdem dieses bereits installiert wurde. Hier kann das Programm auch Repaiert oder Umlokalisiert werden. Sollte dies nicht Möglich sein, verständigen sie uns gerne oder versuchen sie es unter Systemeinstellungen > Apps > CSV Converter PRO > deinstallieren. :).
 
 <u>**Error-Codes**</u>
 - 1099: Unerwarteter Fehler
