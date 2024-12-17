@@ -8,7 +8,7 @@
             "_comment": "Dark mode is not implemented yet, but it will be soon.",
             "theme": "light",
             "language": "DE",
-            "beta-features": true
+            "beta-features": false
         }
     }
 }
